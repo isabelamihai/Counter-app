@@ -19,5 +19,6 @@ The app will count objects using the 'increment function' and will save the coun
 
 ## Link live
 
-Vezi aplicatia live aici: https://lively-basbousa-6a2d67.netlify.app/
-
+Vezi aplicatia live aici:
+Netlify - https://lively-basbousa-6a2d67.netlify.app/ 
+GhPages - https://isabelamihai.github.io/Counter-app/
