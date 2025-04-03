@@ -19,4 +19,4 @@ The app will count objects using the 'increment function' and will save the coun
 
 ## Link live
 
-[Vezi aplicația live aici](https://exemplu.netlify.app)
+[Vezi aplicația live aici](lively-basbousa-6a2d67.netlify.app)
