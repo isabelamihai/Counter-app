@@ -2,23 +2,23 @@
 
 The app will count objects using the 'increment function' and will save the counted data using 'save function'. When you will click on 'save button' the saved data will appear at 'Previous entries' and the counter will return to 0.
 
-## Tehnologii folosite
+## Used tehnologies
 
 - HTML
 - CSS
 - JavaScript
 
-## Cum se folosește
+## How it works?
 
-1. Clonează repository-ul
-2. Deschide index.html în browser
+1. Clone the repo
+2. Open index.html in browser
 
-## Capturi de ecran
+## SS
 
 ![SS with the app](image.png)
 
 ## Link live
 
 Vezi aplicatia live aici:
-Netlify - https://lively-basbousa-6a2d67.netlify.app/ 
+Netlify - https://counter-mini-app.netlify.app/
 GhPages - https://isabelamihai.github.io/Counter-app/
