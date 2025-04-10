@@ -20,5 +20,5 @@ The app will count objects using the 'increment function' and will save the coun
 ## Link live
 
 Vezi aplicatia live aici:
-Netlify - https://counter-mini-app.netlify.app/
-GhPages - https://isabelamihai.github.io/Counter-app/
+![Netlify] - https://counter-mini-app.netlify.app/
+![GhPages] - https://isabelamihai.github.io/Counter-app/
