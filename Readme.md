@@ -1,6 +1,7 @@
 # Counter mini-app
 
-The app will count objects using the 'increment function' and will save the counted data using 'save function'. When you will click on 'save button' the saved data will appear at 'Previous entries' and the counter will return to 0.
+The app will count objects using the 'increment function' and will save the counted data using 'save function'. <br/>
+When you will click on 'save button' the saved data will appear at 'Previous entries' and the counter will return to 0.
 
 ## Used tehnologies
 
@@ -19,6 +20,6 @@ The app will count objects using the 'increment function' and will save the coun
 
 ## Link live
 
-Vezi aplicatia live aici:
-![Netlify] - https://counter-mini-app.netlify.app/
+Vezi aplicatia live aici:<br/>
+![Netlify] - https://counter-mini-app.netlify.app/<br/>
 ![GhPages] - https://isabelamihai.github.io/Counter-app/
