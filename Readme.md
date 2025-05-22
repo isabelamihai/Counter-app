@@ -20,6 +20,6 @@ When you will click on 'save button' the saved data will appear at 'Previous ent
 
 ## Link live
 
-Vezi aplicatia live aici:<br/>
+Check the live app here:<br/>
 ![Netlify] - https://counter-mini-app.netlify.app/<br/>
 ![GhPages] - https://isabelamihai.github.io/Counter-app/
