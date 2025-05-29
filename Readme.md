@@ -18,5 +18,5 @@ When you will click on 'save button' the saved data will appear at 'Previous ent
 ## 🔛Link live
 
 Check the live app here:<br/>
-![Netlify] - https://counter-mini-app.netlify.app/<br/>
-![GhPages] - https://isabelamihai.github.io/Counter-app/
+[Netlify](https://counter-mini-app.netlify.app/) <br/>
+[GhPages](https://isabelamihai.github.io/Counter-app/)
